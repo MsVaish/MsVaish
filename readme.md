@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vaishnavi Palod</h1>
-<h3 align="center">A passionate coder from India</h3>
+<h3 align="center">A passionate coder from Hyderabad, India</h3>
 
 - 🌱 I’m currently taking the **CS50 course.**
 
-- 📫 How to reach me **vaishnavipalod@gmail.com**
+- 📫 How to reach me: **vaishnavipalod@gmail.com**
+
+- 👩 Pronouns: she/her
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
