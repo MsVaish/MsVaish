@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaishnavi Palod</h1>
 <h3 align="center">A passionate coder from Hyderabad, India</h3>
 
-- 🌱 I’m currently taking the **CS50 course.**
+- 🌱 **working as a research intern at genoparadigm**
 
 - 📫 How to reach me: **vaishnavipalod@gmail.com**
 
