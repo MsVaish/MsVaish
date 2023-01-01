@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaishnavi Palod</h1>
-<h3 align="center">A passionate coder from Hyderabad, India</h3>
+<h3 align="center">An aspiring coder from Hyderabad, India</h3>
 
 - 🌱 **working as a research intern at genoparadigm**
 
